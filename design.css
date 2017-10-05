@@ -1,0 +1,258 @@
+body {
+	float: left;
+	background-color: rgb(255,204,153);
+}
+
+/*****DIV STYLE****/
+.container {
+	border-style: solid;
+	border-color: black;
+	width: 40px;
+	height: 60px;
+	padding: 0px;
+	margin: 0px;
+	position: fixed;
+}
+.nemetale {
+	background-color: lightblue;
+}
+.metale {
+	background-color: yellow;
+}
+.metalrar {
+	background-color: red;
+}
+.redbox {
+	background: red;
+}
+#h {
+	position: fixed;
+	top: 8%;
+	left: 49%;
+	
+}
+#He {top: 13%;left: 74.6%;}
+
+/**distanta intre div-uri(top) = 8.1%***/
+/**distanta intre div-uri(left)=2.7%***/
+/****First line****/
+
+#Li {left: 28.7%;top: 21.2%;}
+#Be {top: 21.2%;left: 31.4%;}
+#B{top: 21.2%;left: 61.1%;}
+#C{left: 63.8%;top: 21.2%;}
+#N {left: 66.5%;top: 21.2%;}
+#O {left: 69.2%;top: 21.2%}
+#F {position: fixed;left: 71.9%;top: 21.2%;}
+#Ne {top:21.2%;left: 74.6%}
+/******Second line*****/
+
+#Na {left: 28.7%;top: 29.4%;}
+#Mg {left: 31.4%;top: 29.4%;}
+#Al {top: 29.4%;left: 61.1%;}
+#Si {top: 29.4%;left:63.8%;}
+#P {top: 29.4%;left:66.5%;}
+#S {top: 29.4%;left:69.2%;}
+#Cl {top: 29.4%;left: 71.9%;}
+#Ar {top:29.4%;left: 74.6%;}
+/*****Third line*****/
+
+#K {top: 37.6%;left: 28.7%;}
+#Ca {top: 37.6%;left: 31.4%;}
+#Sc {top: 37.6%;left: 34.1%;}
+#Ti { top:37.6%;left: 36.8%;}
+#V {top:37.6%;left: 39.5%;}
+#Cr {top: 37.6%;left: 42.2%;}
+#Mn {top: 37.6%;left: 44.9%;}
+#Fe {top:37.6%;left: 47.6%;}
+#Co {top:37.6%;left: 50.3%;}
+#Ni {top:37.6%;left:53%;}
+#Cu {top: 37.6%;left:55.7%;}
+#Zn {top: 37.6%;left:58.4%;}
+#Ga {top: 37.6%;left: 61.1%;}
+#Ge {top: 37.6%;left:63.8%;}
+#As {top: 37.6%;left: 66.5%;}
+#Se {top:37.6%;left: 69.2%;}	
+#Br {top: 37.6%;left: 71.9%;}
+#Kr { top: 37.6%;left:74.6%;}
+/*****Fourth line****/
+
+
+#Rb{top: 45.7%;left: 28.7%;}
+#Sr{top: 45.7%;left: 31.4%;}
+#Y{top: 45.7%;left: 34.1%;}
+#Zr{ top:45.7%;left: 36.8%;}
+#Nb{top:45.7%;left: 39.5%;}
+#Mo{top: 45.7%;left: 42.2%;}
+#Tc{top: 45.7%;left: 44.9%;}
+#Ru{top:45.7%;left: 47.6%;}
+#Rh{top:45.7%;left: 50.3%;}
+#Pd{top:45.7%;left:53%;}
+#Ag{top: 45.7%;left:55.7%;}
+#Cd{top: 45.7%;left:58.4%;}
+#In{top: 45.7%;left: 61.1%;}
+#Sn{top: 45.7%;left:63.8%;}
+#Sb{top: 45.7%;left: 66.5%;}
+#Te{top:45.7%;left: 69.2%;}
+#I{top: 45.7%;left: 71.9%;}
+#Xe {top: 45.7%;left:74.6%;}
+
+/****Fifth line****/
+
+#Cs {top: 53.9%;left: 28.7%;}
+#Ba {top: 53.9%;left: 31.4%;}
+#redbox {top: 53.9%;left: 34.1%;background: red;}
+#Hf {top: 53.9%;left: 36.8%;}
+#Ta {top: 53.9%;left: 39.5%;}
+#W {top: 53.9%;left: 42.2%;}
+#Re {top: 53.9%;left: 44.9%;}
+#Os {top: 53.9%;left: 47.6%;}
+#Ir {top: 53.9%;left: 50.3%;}
+#Pt {top: 53.9%;left: 53%;}
+#Au {top: 53.9%;left: 55.7%;}
+#Hg {top: 53.9%;left: 58.4%;}
+#Tl {top: 53.9%;left: 61.1%;}
+#Pb {top: 53.9%;left: 63.8%;}
+#Bi {top: 53.9%;left: 66.5%;}
+#Po {top: 53.9%; left: 69.2%;}
+#At {top: 53.9%;left: 71.9%;}
+#Rn {top: 53.9%;left: 74.6%;}
+/****Sixth line****/
+
+#Fr {top: 62.1%;left: 28.7%;}
+#Ra {top: 62.1%;left: 31.4%;}
+#redbox2 {top: 62.1%;left: 34.1%;;background: red;}
+#Rf {top:62.1%;left: 36.8%;}
+#Db {top: 62.1%;left: 39.5%;}
+#Sg {top: 62.1%;left: 42.2%;}
+#Bh {top: 62.1%;left: 44.9%;}
+#Hs {top: 62.1%;left: 47.6%;}
+#Mt {top: 62.1%;left: 50.3%;}
+#Ds {top: 62.1%;left:53%;}
+#Rg {top: 62.1%;left:55.7%;}
+/****Lanthanide***/
+#La {top:95%; left: }
+#Ce {top:; left: }
+#Pr {top:; left: }
+#Nd {top:; left: }
+#Pm {top:; left: }
+#Sm {top:; left: }
+#Eu {top:; left: }
+#Gd {top:; left: }
+#Tb {top:; left: }
+#Dy {top:; left: }
+#Ho {top:; left: }
+#Er {top:; left: }
+#Tm {top:; left: }
+#Yb {top:; left: }
+#Lu {top:; left: }
+
+.line1 {top: 13%;left:23.5%; position: fixed;}
+.line2 {top: 21.2%;left: 23.5%;position: fixed;}
+.line3 {top: 29.4%;left: 23.5%;position: fixed;}
+.line4 {top: 37.6%;left: 23.5%;position: fixed;}
+.line5 {top: 45.7%;left: 23.5%;position: fixed;}
+.line6{top: 53.9%;left:23.5%;position: fixed;}
+.line7 {top: 62.1%;left: 23.5%;position: fixed;}
+.line8 {top: 70%;left: 23.5%;position: fixed;}
+.fix {position: fixed;}
+.per1 {left: 26.5%;top:13%; }
+.per2 {left: 26.5%;top:21.2%; }
+.per3 {left: 26.5%;top:29.4%;}
+.per4 {left: 26.5%;top:37.6%; }
+.per5 {left: 26.5%;top:45.7%; }
+.per6 {left: 26.5%;top:53.9%;}
+.per7 {left: 26.5%;top:62.1%; }
+
+.gr1 {top:15% ;left:28.8% ;}
+.gr2 {top:15% ;left:31.5% ;}
+.gr3 {top:31.5% ;left:34.5% ;}
+.gr4 {top:31.5% ;left:36.9% ;}
+.gr5 {top:31.5% ;left:39.6% ;}
+.gr6 {top:31.5% ;left:42% ;}
+.gr7 {top:31.5% ;left:44.4% ;}
+.gr8 {top:31.5% ;left:47.2% ;}
+.gr9 {top:31.5% ;left:50% ;}
+.gr10 {top:31.5% ;left:52.7% ;}
+.gr11 {top:31.5% ;left:56% ;}
+.gr12 {top:31.5% ;left:58.5% ;}
+.gr13 {top:15% ;left:60.3% ;}
+.gr14 {top:15%; left:63.2% ;}
+.gr15 {top:15%; left:66% ;}
+.gr16 {top:15%; left:68.7% ;}
+.gr17 {top:15%; left:71.5% ;}
+.gr18 { top:7.5%;left:74.7% ;}
+/****features****/
+
+.atomi {
+	margin-left: 70px;
+	margin-top: -60px;
+	white-space: nowrap;
+	font-size: 13px;
+
+}
+.denumire {
+	position: fixed;
+	top:6%;
+	left: 39.8%;
+	font-weight: bold;
+}
+#s1 {
+	color:rgb(51,153,51);
+}
+#s2 {
+	color:rgb(153,0,0);
+}
+.s3 {
+	font-size: 11px;
+	font-weight: normal;
+}
+#grupa {
+	top:10.7% ;
+	left: 28.7%;
+}
+/*****DIV CONTENT****/
+h3.gas{
+	color: rgb(153,0,0);
+	text-align: center;
+	vertical-align: middle;
+	line-height: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+h3.solid{
+	color: black;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+h3.liquid{
+	color:rgb(51,153,51);
+	text-align: center;
+	vertical-align: middle;
+	line-height: 10px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.p-top {
+	margin: 0px;
+	text-align: center;
+	padding: 0px;
+	font-size: 10px;
+}
+.p-bottom {
+	margin: 0;
+	text-align: center;
+	font-size: 13px;
+	padding: 0px;
+}
+.p-name {
+	margin:0px;
+	text-align: center;
+	padding: 0px;
+	font-size: 10px;
+	font-weight: bold;
+}
