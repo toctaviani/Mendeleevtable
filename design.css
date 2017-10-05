@@ -131,22 +131,43 @@ body {
 #Ds {top: 62.1%;left:53%;}
 #Rg {top: 62.1%;left:55.7%;}
 /****Lanthanide***/
-#La {top:95%; left: }
-#Ce {top:; left: }
-#Pr {top:; left: }
-#Nd {top:; left: }
-#Pm {top:; left: }
-#Sm {top:; left: }
-#Eu {top:; left: }
-#Gd {top:; left: }
-#Tb {top:; left: }
-#Dy {top:; left: }
-#Ho {top:; left: }
-#Er {top:; left: }
-#Tm {top:; left: }
-#Yb {top:; left: }
-#Lu {top:; left: }
+#La {top:75%; left:36.8%; }
+#Ce {top:75%; left:39.5%; }
+#Pr {top:75%; left:42.2%; }
+#Nd {top:75%; left:44.9%; }
+#Pm {top:75%; left:47.6%; }
+#Sm {top:75%; left:50.3%; }
+#Eu {top:75%; left:53%; }
+#Gd {top:75%; left:55.7% ;}
+#Tb {top:75%; left:58.4%; }
+#Dy {top:75%; left:61.1%; }
+#Ho {top:75%; left:63.8%; }
+#Er {top:75%; left: 66.5%;}
+#Tm {top:75%; left: 69.2%;}
+#Yb {top:75%; left: 71.9%;}
+#Lu {top:75%; left: 74.6%;}
 
+/***Actinide***/
+#Ac {top:83.2% ;left:36.8% ;}
+#Th {top:83.2% ;left:39.5% ;}
+#Pa {top:83.2% ;left:42.2% ;}
+#U {top:83.2% ;left:44.9% ;}
+#Np {top:83.2% ;left:47.6% ;}
+#Pu {top:83.2% ;left:50.3% ;}
+#Am {top:83.2% ;left:53% ;}
+#Cm {top:83.2% ;left:55.7% ;}
+#Bk {top:83.2% ;left:58.4% ;}
+#Cf {top:83.2% ;left:61.1% ;}
+#Es {top:83.2% ;left:63.8% ;}
+#Fm {top:83.2% ;left:66.5% ;}
+#Md {top:83.2% ;left:69.2% ;}
+#No {top:83.2% ;left:71.9% ;}
+#Lr {top:83.2% ;left:74.6% ;}
+
+.met {top:62.1%;left: 69.2%}
+.nemet {top: 62.1%;left: 73%;}
+.actinide {top:75%; left: 31%;}
+.lantanide {top: 83.1%;left: 31%;}
 .line1 {top: 13%;left:23.5%; position: fixed;}
 .line2 {top: 21.2%;left: 23.5%;position: fixed;}
 .line3 {top: 29.4%;left: 23.5%;position: fixed;}
